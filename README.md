@@ -8,7 +8,7 @@ test.json, train.json
 ## Usage
 1. Clone this repository: `git clone https://github.com/AlagarsamySaranya/LLM-TestCaseUpdation.git && cd LLM-TestCaseUpdation`  
 2. Set up OpenAI API Key: Create `openai_api_key.json` file in the root directory with content: `{ "api_key": "YOUR_OPENAI_API_KEY" }`  
-3. Run the detection pipeline: `python Gpt.py`  
+3. Run : `python Gpt.py`  
 You can also run individual modules: Replace `Gpt.py` with `starCoder.py` or `Gemini.py`
 
 ## ⚙️ Requirements
